@@ -1,4 +1,4 @@
-### Sobre mí 👋
+### Sobre mí 
 
 Soy **Sebastián**, un **Ingeniero Informático egresado** con un fuerte enfoque en el desarrollo Frontend. Me dedico a construir aplicaciones web funcionales y a escribir código limpio.
 

@@ -7,4 +7,4 @@ Soy **Sebastián**, un **Ingeniero Informático egresado** con un fuerte enfoque
 * **Gestión de Datos:** Manejo de consultas y bases de datos con **SQL**.
 * **Flujo de Trabajo:** Experiencia en control de versiones y trabajo colaborativo mediante **Git**.
 
-Actualmente estoy perfeccionando mis conocimientos en **Testing y Debugging**. Busco una **Práctica Profesional** con disponibilidad inmediata para aplicar estas habilidades en proyectos reales.
+Actualmente estoy perfeccionando mis conocimientos en **Testing y Debugging**. 

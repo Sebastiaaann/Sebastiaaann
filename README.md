@@ -1,6 +1,6 @@
 ### Sobre mí 
 
-Soy **Sebastián**, un **Ingeniero Informático egresado** con un fuerte enfoque en el desarrollo Frontend. Me dedico a construir aplicaciones web funcionales.
+Soy **Sebastián**, un **Ingeniero Informático egresado** con un fuerte enfoque en el desarrollo Frontend. 
 
 **Mis competencias técnicas:**
 * **Desarrollo Frontend:** Creación de interfaces dinámicas y reactivas utilizando **React**, **JavaScript (ES6+)** y **HTML5/CSS3**.
